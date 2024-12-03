@@ -1,0 +1,11 @@
+public class Gratitude_244107060159 { 
+
+    public static void sayAdditionalGreetings(String message) {
+        System.out.println("Additional Greeting: " + message);
+    }
+
+    public static void main(String[] args) {
+    
+        sayAdditionalGreetings("Have a great day!");
+    }
+}
